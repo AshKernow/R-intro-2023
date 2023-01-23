@@ -12,13 +12,6 @@ title: 'Getting Ready'
 Before starting this course you will need to ensure that your computer is set
 up with the required software.
 
-In addition, online learning requires extra screen 'real estate' and you may
-find it useful (but not essential) to have a dual screen setup or two devices,
-e.g. laptop and tablet/phone.
-
-If you have any difficulty installing any of this software then please contact
-one of the trainers for help.
-
 <div style="line-height: 100%;"><br/></div>
 
 # R and RStudio
@@ -34,7 +27,7 @@ However, using R alone is no fun. **RStudio** is a graphical integrated
 development environment (IDE) that makes using R much easier and more
 interactive. You need to install R before you install RStudio.
 
-On this course we will be making use of a brilliant collection of packages
+On this course we will be making use of a excellent collection of packages
 designed for data science called the **`tidyverse`** that make it much easier
 and more fun to work with your data. After installing R and RStudio, follow
 the instructions at the bottom of this page to install the `tidyverse`.
@@ -63,7 +56,8 @@ to do so.
 * Download R from the [CRAN website](https://cran.r-project.org/bin/windows/base/release.htm).
 * Run the `.exe` file that was just downloaded
 * Go to the [RStudio download page](https://www.rstudio.com/products/rstudio/download/#download)
-* Under *Installers* select **RStudio x.yy.zzz - Windows 10/8/7** (where x, y, and z represent version numbers)
+* Under *Installers* select **RStudio x.yy.zzz - Windows 10/8/7** (where x, y,
+and z represent version numbers)
 * Double click the file to install it
 * Once it's installed, open RStudio to make sure it works and you don't get any
   error messages.
@@ -128,7 +122,8 @@ After installing R and RStudio, please install the `tidyverse` packages.
   `install.packages("tidyverse")`
   (look for the 'Console' tab and type at the `>` prompt)
 
-* You can also do this by going to Tools -> Install Packages and typing the names of the packages separated by a comma.
+* You can also do this by going to Tools -> Install Packages and typing the
+names of the packages separated by a comma.
 
 <div style="line-height: 100%;"><br/></div>
 
