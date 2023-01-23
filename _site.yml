@@ -1,6 +1,6 @@
 name: "r-intro"
 navbar:
-  title: "<img style=\"width: 120px; float: left; margin-top: 0px; margin-right: 20px;\" src=\"images/CRUK_CI_logo.png\"/>R for Cancer Scientists&nbsp;&nbsp;&nbsp;"
+  title: "R Intro&nbsp;&nbsp;&nbsp;"
   left:
     - text: "Contents"
       href: index.html
@@ -21,7 +21,7 @@ navbar:
           href: week6.html
   right:
     - icon: fa-github fa-lg
-      href: https://github.com/bioinformatics-core-shared-training/r-intro
+      href: https://github.com/AshKernow/R-intro-2023
 output_dir: "docs"
 output:
   html_document:
